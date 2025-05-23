@@ -1,5 +1,5 @@
 # Text-Prediction-Model
-Character-level Text prediction Model 
+This is a Character-level Text prediction Model where i learned what a RNN is, how it works, how we can use tensorflows when it comes to working with Database, and so much more 
 
 ## 📁 Project Structure
  main.py # Entry point: preprocesses text, trains model, and generates sample output
